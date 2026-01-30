@@ -13,6 +13,7 @@
 - [About the Project](#☕-about-the-project)
 - [Tech Stack](#🛠-tech-stack)
 - [Installation & Running](#🚀-installation--running)
+- [Contributing](#🤝-contributing)
 
 ## ☕ About the Project
 
@@ -32,7 +33,16 @@ learn about coffee.
 
 ### Steps
 
-1. **Clone the repository:** git clone
-2. **Install dependencies (NPM):** npm install
-3. **Run the project in development mode:** npm run dev
-4. **Open the link shown in the terminal** (usually http://localhost:5173/)
+1. **Clone the repository:** git clone https://github.com/Kostya088/coffee-joy.git
+2. **Navigate to the project directory:** cd coffee-joy
+3. **Install dependencies (NPM):** npm install
+4. **Run the project in development mode:** npm run dev
+5. **Open the link shown in the terminal** (usually http://localhost:5173/)
+
+## 🤝 Contributing
+
+We welcome contributions! This repository uses:
+- **`main`** branch for development
+- **`gh-pages`** branch for automatic deployment
+
+Please see [CONTRIBUTING.md](CONTRIBUTING.md) for detailed information about our branch structure and how to contribute.
